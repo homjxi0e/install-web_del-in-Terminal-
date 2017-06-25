@@ -1,7 +1,7 @@
 # install-web_del-in-Terminal
 # .. Hello meaning today is a terrible subject to me...
 ------------------------------------------------------------------------------------
- You may know tool Figlet Which produces a file .bashrc in Path Home in files sysstems Linux Full control On Terminal
+ You may know tool Figlet Which produces a file .bashrc in Path Home in files systems Linux Full control On Terminal
  This file is specialized in decorating the terminal with to add some great stuff
  So whatever you write In file .bashrc The terminal will read it yes !
  Follow some pictures
